@@ -1,0 +1,6 @@
+Debug/
+Release/
+*.elf
+*.hex
+*.map
+*.list
